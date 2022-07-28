@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "585029954450",
+    "project_id": "nowchat-41ec5",
+    "storage_bucket": "nowchat-41ec5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585029954450:android:372d524c5aaaf3a719af4b",
+        "android_client_info": {
+          "package_name": "com.mobile.nowchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585029954450-fp0vbcjg9bfgiu0svnfn5odrb72eshgl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2o5KXSUOs33kmVX9v5FO-RWXxX1KroXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585029954450-fp0vbcjg9bfgiu0svnfn5odrb72eshgl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
